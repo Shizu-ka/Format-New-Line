@@ -8,7 +8,6 @@
 
 
 
-
-The exe file is main.exe, but you can download it from here :
+The exe file is main.exe in the repository, but you can download it from here :
 
 http://tiny.cc/formatnewline

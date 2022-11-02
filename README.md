@@ -1,7 +1,6 @@
 # Format New Line
  This tool can be use to delete every new line after you copy a text
-![giphy](Format-New-Line/META-INF/demo.gif)
-Format-New-Line/META-INF/demo.gif
+![](META-INF/demo.gif)
 
 
 

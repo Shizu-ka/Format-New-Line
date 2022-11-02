@@ -1,6 +1,7 @@
 # Format New Line
  This tool can be used to delete every new line after you copy a text
- <img src="[/images/output/video1.gif](https://user-images.githubusercontent.com/58659139/199491101-9afe3173-1daa-4353-b509-f9f50a2c17f0.gif)" width="500" height="500"/>
+![demo_AdobeExpress](https://user-images.githubusercontent.com/58659139/199491926-47e70bb4-5f19-4632-8ff2-2fd8d25ad389.gif)
+
 
 
 

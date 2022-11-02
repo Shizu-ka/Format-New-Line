@@ -1,4 +1,4 @@
-# Format New Line
+# Delete New Line
  This tool can be use to delete every new line after you copy a text
 ![](META-INF/demo.gif)
 

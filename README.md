@@ -1,5 +1,5 @@
 # Delete New Line
- This tool can be use to delete every new line after you copy a text
+ This tool can be used to delete every new line after you copy a text
 ![](META-INF/demo.gif)
 
 
